@@ -21,7 +21,7 @@ A conversational AI app inspired by OpenAI's GPT-3 language model, built with Cr
 1. Clone the repository
 
 ```
-git clone https://github.com/dhiant/react-chatGPT-clone.git
+git clone https://github.com/raanausama/React-OpenAi-ChatBot.git.git
 ```
 
 2. Install client dependencies
@@ -78,13 +78,3 @@ node index.js
 All contributions are welcome. Feel free to open an issue or create a pull request. And I will be more than happy for sponsors.
 
 <a href="https://www.buymeacoffee.com/sushantdhimal" target="_blank"><img src="./client/public/buymeacoffee.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
-
-## Liscence
-
-This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
-
-This means that you can use, copy, and modify the code as long as you give credit to the original author (attribution), don't use it for commercial purposes (non-commercial), and distribute any modifications under the same license (share alike).
-
-Please note that this license applies to the code in this repository only, and does not apply to the OpenAI API, which is subject to its own license agreement.
-
-[Liscence](LISCENCE)
